@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="title" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/webnar</item>
+        <item name="android:textSize">@dimen/font_large_plus</item>
+        <item name="android:minHeight">@dimen/min_height</item>
+        <item name="android:letterSpacing">@dimen/char_spacing_0</item>
+    </style>
+</resources>

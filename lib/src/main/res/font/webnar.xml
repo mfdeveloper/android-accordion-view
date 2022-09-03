@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+REFERENCE:
+https://developer.android.com/develop/ui/views/text-and-emoji/fonts-in-xml#using-support-lib
+-->
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        app:fontStyle="normal"
+        app:font="@font/webnar_bold"/>
+    <font
+        app:fontStyle="italic"
+        app:font="@font/webnar_bold_italic"/>
+</font-family>

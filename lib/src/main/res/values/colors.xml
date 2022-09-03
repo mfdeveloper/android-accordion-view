@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fill group -->
+    <color name="fill_black">#222222</color>
+    <color name="fill_white_light">#F5F5F5</color>
+</resources>

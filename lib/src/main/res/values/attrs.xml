@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AccordionView">
+        <attr name="expanded" format="boolean" />
+        <attr name="iconDrawable" format="reference" />
+        <attr name="headerText" format="string" />
+        <attr name="android:textStyle" />
+        <attr name="android:textColorHint" />
+        <attr name="android:textColor" />
+        <attr name="android:textSize" />
+        <attr name="android:background" />
+        <attr name="android:colorBackground" />
+        <attr name="contentBackgroundColor" format="reference|color" />
+        <attr name="contentBackground" format="reference" />
+        <attr name="animate" format="boolean" />
+        <attr name="animateArrow" format="boolean" />
+        <attr name="collapseOthers" format="boolean" />
+        <attr name="displayDivider" format="boolean" />
+        <attr name="relatedAccordions" format="reference" />
+    </declare-styleable>
+</resources>
